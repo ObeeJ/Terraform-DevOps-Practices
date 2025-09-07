@@ -1,16 +1,16 @@
-# 🌱 CarbonAPI - Real-Time Carbon Footprint Calculation
+# CarbonAPI - Real-Time Carbon Footprint Calculation
 
 **The world's fastest carbon footprint API for businesses, developers, and sustainability platforms.**
 
-## 🎯 Problem We Solve
+## Problem We Solve
 
 Every company globally must track carbon emissions for ESG compliance, but current solutions are:
-- ⏰ **Slow** - Take days/weeks for calculations
-- 💰 **Expensive** - $10K-100K+ annual enterprise licenses  
-- 🔒 **Limited** - Only work for large corporations
-- 📊 **Manual** - Require complex spreadsheet uploads
+-  **Slow** - Take days/weeks for calculations
+-  **Expensive** - $10K-100K+ annual enterprise licenses  
+-  **Limited** - Only work for large corporations
+-  **Manual** - Require complex spreadsheet uploads
 
-## 🚀 Our Solution
+##  Our Solution
 
 **CarbonAPI** provides instant carbon footprint calculations for ANY activity through a simple REST API:
 
@@ -33,16 +33,16 @@ POST /api/v1/calculate
 }
 ```
 
-## ✨ Key Features
+##  Key Features
 
-- ⚡ **Sub-100ms Response Time** - Real-time calculations
-- 🌍 **Global Coverage** - All countries, transport modes, activities
-- 🎯 **99.9% Accuracy** - Based on latest IPCC data
-- 🔗 **Easy Integration** - RESTful API, SDKs available
-- 📈 **Real-time Analytics** - Dashboard and reporting
-- 🛡️ **Enterprise Ready** - SOC2, GDPR compliant
+-  **Sub-100ms Response Time** - Real-time calculations
+-  **Global Coverage** - All countries, transport modes, activities
+-  **99.9% Accuracy** - Based on latest IPCC data
+-  **Easy Integration** - RESTful API, SDKs available
+-  **Real-time Analytics** - Dashboard and reporting
+-  **Enterprise Ready** - SOC2, GDPR compliant
 
-## 🏗️ Architecture
+##  Architecture
 
 ### **Backend (Golang Fiber)**
 - High-performance API server
@@ -63,7 +63,7 @@ POST /api/v1/calculate
 - Automated testing and deployment
 - Monitoring and alerting
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ```
 Frontend:     React Dashboard (planned)
@@ -75,7 +75,7 @@ CI/CD:        GitHub Actions
 Monitoring:   CloudWatch + Prometheus
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Go 1.21+
@@ -119,7 +119,7 @@ cd .. && ./scripts/deploy.sh
 | `/api/v1/analytics` | GET | Usage analytics |
 | `/api/v1/health` | GET | Health check |
 
-## 💼 Business Model
+##  Business Model
 
 - **Freemium**: 1,000 free API calls/month
 - **Startup**: $99/month for 50K calls
@@ -128,14 +128,14 @@ cd .. && ./scripts/deploy.sh
 
 **Target Market Size**: $50B+ ESG compliance market
 
-## 🌍 Market Opportunity
+##  Market Opportunity
 
 - **50,000+ companies** need carbon tracking by 2025 (EU CSRD)
 - **$366B+ sustainability market** growing 20% annually
 - **Zero dominant API player** in real-time carbon calculation
 - **First-mover advantage** in developer-friendly carbon tools
 
-## 🏆 Competitive Advantage
+##  Competitive Advantage
 
 1. **Speed**: 100x faster than existing solutions
 2. **Cost**: 90% cheaper than enterprise alternatives  
@@ -143,7 +143,7 @@ cd .. && ./scripts/deploy.sh
 4. **Developer-First**: Simple API, great documentation
 5. **Global**: Works anywhere, any activity type
 
-## 🛣️ Roadmap
+##  Roadmap
 
 **Q1 2025**: 
 - ✅ Core API development
@@ -151,20 +151,20 @@ cd .. && ./scripts/deploy.sh
 - ✅ MVP launch
 
 **Q2 2025**:
-- 🎯 React dashboard
-- 🎯 Mobile SDKs
-- 🎯 Enterprise features
+-  React dashboard
+-  Mobile SDKs
+-  Enterprise features
 
 **Q3 2025**:
-- 🎯 AI-powered suggestions
-- 🎯 Blockchain verification
-- 🎯 Global partnerships
+-  AI-powered suggestions
+-  Blockchain verification
+-  Global partnerships
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## 📄 License
+##  License
 
 MIT License - see [LICENSE](LICENSE) for details.
 
@@ -177,4 +177,4 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-**Built with 💚 for a sustainable future** 
+**Built for a sustainable future** 
